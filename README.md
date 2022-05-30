@@ -1,4 +1,4 @@
-# DesafioLatam Viajes Chile
+# Desafio Viajes Chile
 _Prueba final del Modulo Fundamentos del desarrollo de páginas web._
 
 ## Tecnologias a utilizar:
@@ -38,3 +38,7 @@ _5. Gestionar el código fuente utilizando Github:_
 * Inicializar GIT para versionar el proyecto localmente, realizando 5 o más commits.
 * Implementar la creación de repositorio remoto en Github para el versionamiento del proyecto.
 * Crear la página en Github Pages.
+
+
+# Live Demo
+Proyecto corriendo en GitHub Pages:  [felipemunozca.github.io/Desafio_viajesChile](https://felipemunozca.github.io/Desafio_viajesChile/)
